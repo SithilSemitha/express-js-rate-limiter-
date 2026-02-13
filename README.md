@@ -3,12 +3,6 @@
 ```markdown
 # 🚀 Express.js Rate Limiter with DragonflyDB & Redis
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
 An Express.js backend application demonstrating a robust implementation of API Rate-Limiting. This project showcases how to effectively manage traffic and prevent abuse using **Redis** and **DragonflyDB** as fast, in-memory data stores, alongside **MongoDB** for persistent database operations.
 
 ## ✨ Features
